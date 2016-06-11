@@ -1,0 +1,47 @@
+body{
+
+	background-image:url("menu.jpg");
+	background-size:contain;
+}
+
+#header {
+   
+    color:MediumOrchid ;
+    text-align:center;
+    padding:5px;
+}
+
+#section {
+    width:350px;
+    float:left;
+    padding:10px;
+    color:Beige;
+
+}
+
+td{
+  
+    padding:10px;
+    color:Red;
+    font-weight:900;
+ text-align:center;
+
+}
+
+td.css{
+
+color:Red;
+ text-align:center;
+
+}
+th{
+    padding:10px;
+	color:Purple;
+    font-weight:900
+}
+
+marquee{
+	padding:10px;
+	color:Aqua;
+
+}
