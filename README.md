@@ -1,5 +1,5 @@
 # kidnapp
 
 my first repo
-learning about app,css
+learning about front and back end
 
