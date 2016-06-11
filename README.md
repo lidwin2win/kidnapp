@@ -1,2 +1,5 @@
 # kidnapp
-app,css
+
+my first repo
+learning about app,css
+
